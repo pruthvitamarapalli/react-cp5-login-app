@@ -1,0 +1,10 @@
+.logout-button {
+  color: #303150;
+  font-family: Roboto;
+  font-size: 16px;
+  padding: 10px;
+  width: 80px;
+  background-color: #f8fafc;
+  border-radius: 10px;
+  border: none;
+}
